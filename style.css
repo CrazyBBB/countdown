@@ -1,0 +1,13 @@
+body {
+    background-color: khaki;
+}
+
+#contents {
+    font-size: 50px;
+    text-align: center;
+}
+
+#days {
+    color: red;
+    font-size: 80px;
+}
